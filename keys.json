@@ -6,5 +6,13 @@
   "ROSIA-DEMO-2": {
     "status": "active",
     "expiry": "2026-06-24 18:00"
+  },
+  "ROSIA-DEMO-3": {
+    "status": "active",
+    "expiry": "2026-06-24 10:00"
+  },
+  "ROSIA-DEMO-4": {
+    "status": "active",
+    "expiry": "2026-06-25 00:00"
   }
 }
