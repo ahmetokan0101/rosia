@@ -1,0 +1,10 @@
+{
+  "ROSIA-DEMO-1": {
+    "status": "active",
+    "expiry": "2026-06-24 02:20"
+  },
+  "ROSIA-DEMO-2": {
+    "status": "active",
+    "expiry": "2026-06-24 18:00"
+  }
+}
